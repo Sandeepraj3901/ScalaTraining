@@ -1,0 +1,4 @@
+trait TraitsGreeting {
+   def greet()
+}
+

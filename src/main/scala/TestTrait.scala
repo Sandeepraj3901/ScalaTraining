@@ -1,0 +1,6 @@
+trait TestTrait {
+
+    def add()
+
+
+}
